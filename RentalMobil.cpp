@@ -1,4 +1,3 @@
-//Tugas Akhir
 //Data Rental Sahabat Anda
 #include<iostream>
 using namespace std;
